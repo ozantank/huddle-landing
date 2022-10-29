@@ -1,5 +1,4 @@
-# Huddle landing page with single introductory section solution
-
+# Huddle landing page with single introductory section
 ## Table of contents
 
 - [Overview](#overview)
